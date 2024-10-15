@@ -9,6 +9,9 @@
 <div align="center">
   <img src="https://i.imgur.com/your-custom-animation.gif" alt="Interactive Project Demo" width="600" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 247, 255, 0.5);">
 </div>
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=35&animation=fadeIn&fontColor=#fff" width="100%" alt="Welcome Banner" />
+</div> -->
 
 ---
 
