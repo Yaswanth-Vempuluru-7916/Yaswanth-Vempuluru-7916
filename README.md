@@ -2,7 +2,7 @@
 
 # 👨‍💻 Yaswanth V - Full Stack Developer
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Blockchain+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 </div>
 
